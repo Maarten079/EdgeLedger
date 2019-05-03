@@ -149,7 +149,7 @@ p {
   padding: 0 5rem;
   /* Overlay */
   position:absolute;
-top:0;
+  top:0;
   left: 0px;
   right: 0px; 
   bottom: 0px;
